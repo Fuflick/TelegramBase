@@ -15,6 +15,6 @@ public class MyDbContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=TelegramDb;Username=postgres;Password=1234"); // ToDo get connection string
+        optionsBuilder.UseNpgsql("Host=172.17.0.2;Port=5432;Database=TelegramBase;Username=postgres;Password=123"); // ToDo get connection string
     }
 }

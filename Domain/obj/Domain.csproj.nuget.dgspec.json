@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Vus\\base\\TelegramBase\\Domain\\Domain.csproj": {}
+    "/home/kraiben/Code/TelegramBase/Domain/Domain.csproj": {}
   },
   "projects": {
-    "C:\\Vus\\base\\TelegramBase\\Domain\\Domain.csproj": {
+    "/home/kraiben/Code/TelegramBase/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Vus\\base\\TelegramBase\\Domain\\Domain.csproj",
+        "projectUniqueName": "/home/kraiben/Code/TelegramBase/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Vus\\base\\TelegramBase\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\stepa\\.nuget\\packages\\",
-        "outputPath": "C:\\Vus\\base\\TelegramBase\\Domain\\obj\\",
+        "projectPath": "/home/kraiben/Code/TelegramBase/Domain/Domain.csproj",
+        "packagesPath": "/home/kraiben/.nuget/packages/",
+        "outputPath": "/home/kraiben/Code/TelegramBase/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\stepa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/kraiben/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/kraiben/dotnet/sdk/7.0.407/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K1u1plPBcdXDwddExqhix4nCqJvU/9cwqK+pQkZzlZjOfm3PkV9cQ+iyWMFK7vU2wjMJVX3/tPtfdrocZq3VtQ==",
+  "dgSpecHash": "ZZBXXfKniFFkvmGOIcznl7d6kg7fgZWHVrXNka+q7Epa0z95zzRzLhGxXzkmWQFbN3VWGhcBzoretZG6lWSJcQ==",
   "success": true,
-  "projectFilePath": "C:\\Vus\\base\\TelegramBase\\Domain\\Domain.csproj",
+  "projectFilePath": "/home/kraiben/Code/TelegramBase/Domain/Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
